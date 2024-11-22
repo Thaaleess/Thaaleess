@@ -1,4 +1,4 @@
-<h1 align="left">Oi, bem-vindo ao meu repositório 👋</h1>
+<h1 align="left">Oi, bem-vindo ao meu perfil 👋</h1>
 
 ###
 
